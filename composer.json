@@ -1,9 +1,9 @@
 {
-  "name": "sk-id-solutions/smart-id-php-client",
+  "name": "lapiy/smart-id-php-client",
   "type": "library",
   "description": "Smart-ID Relying Party PHP Api client",
   "homepage": "https://github.com/SK-EID/smart-id-php-client",
-  "version": "2.0",
+  "version": "1.0",
   "keywords": [
     "smart-id",
     "relying",
